@@ -46,10 +46,9 @@ A sample from *The Chrysalids* — the full pipeline end-to-end: original audiob
 > 🔊 **Turn your sound on** — the narration is the whole point.
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/c4719ee1-e98e-45e3-9ba0-18eda1d9a917">
+  <video src="https://github.com/user-attachments/assets/1eac2c0f-9c10-40bb-b979-3a9d47b79f20">
   </video>
 </div>
-
 ---
 
 ### Characters & locations
@@ -116,7 +115,7 @@ And the same mechanism applied across wildly different books — cyberpunk as a 
 
 ### Ambient mode — glance, don't stare
 
-Audiobooks are for *listening* — while driving, cooking, walking, falling asleep. Staring at a phone defeats the point. So Visibl pushes the current scene to your lock screen and Apple Music-style "now playing" album art as the story plays. Glance at your watch at a red light, or tap your phone while your hands are full, and you instantly see who is speaking, what they look like, and where they are. Put the phone away and the story keeps painting itself in the background.
+Audiobooks are for *listening* — you shouldn't have to stare at a screen. Visibl pushes the current scene to your lock screen and "now playing" album art, so a glance tells you who's speaking, what they look like, and where they are.
 
 <p align="center">
   <img src="https://visibl.ai/lockscreengroup_1.png" alt="Lock screen album art updating during playback" width="600">
