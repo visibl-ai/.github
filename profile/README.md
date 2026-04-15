@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/c4719ee1-e98e-45e3-9ba0-18eda1d9a917
+
 # <a href="https://visibl.ai"><img src="https://imagedelivery.net/tQttKO0JZXPihTOH_rMepA/e2f040dd-3dda-408b-e767-b5c02ed1ec00/thumb" alt="Visibl" width="32" height="32" style="vertical-align: middle;"> visibl.ai - Automated, multi-pass Book to Graphic Novel pipeline</a>
 <p align="center">
   <strong>Transform fiction novels into user guided visual narratives</strong>
@@ -22,6 +26,12 @@
     <img src="https://img.shields.io/badge/Web-visibl.ai-black?style=flat-square" alt="Website">
   </a>
 </p>
+
+
+
+
+https://github.com/user-attachments/assets/f9c5d439-73d0-40fc-b0f6-583e17998b91
+
 
 ---
 
